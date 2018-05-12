@@ -1,7 +1,7 @@
 let friendsArray = [
   {
-    "name":"Ahmed",
-    "photo":"https://i1.wp.com/www.winhelponline.com/blog/wp-content/uploads/2017/12/user.png",
+    "name":"Demi Rose",
+    "photo":"https://i.imgur.com/PxPuyBR.jpg",
     "scores":
       [
         '5',
